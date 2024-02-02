@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tasbeeh Naser</h1>
 <h3 align="center">A frontend developer from Palestine </h3>
-<img align="center" width="400" alt="coding" src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966"/>
+<img align="center" width="600" alt="coding" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tasbeehnaser99&label=Profile%20views&color=0e75b6&style=flat" alt="tasbeehnaser99" /> </p>
 
 
 
 - 🧠 I’m currently studying Computer Systems Engineering at [Palestine Technical University – Kadoorie](https://ptuk.edu.ps/ar/)
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **ASP.NET**
 
 - 👨‍💻 All of my projects are available at [My repositories ](https://github.com/TasbeehNaser99?tab=repositories)
 
