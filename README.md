@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tasbeeh Naser :palestinian_territories:</h1>
-<h3 align="center">A frontend developer from Palestine </h3>
+<h1 align="center">Hi 👋, I'm Tasbeeh Naser </h1>
+<h3 align="center">A frontend developer from Palestine :palestinian_territories: </h3>
 <img align="center" width="600" alt="coding" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tasbeehnaser99&label=Profile%20views&color=0e75b6&style=flat" alt="tasbeehnaser99" /> </p>
 
